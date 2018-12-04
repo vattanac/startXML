@@ -1,0 +1,20 @@
+employees{
+    width: 80%;
+    padding: auto;
+    margin: 200px;
+    align-content: center;
+}
+employee{
+    align-items: center;
+    display: block;
+}
+
+id,name,email,salary{
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+
+}
+salary{
+    color: red;
+}

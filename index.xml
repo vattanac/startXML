@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<employees>
+ <employee>
+   <id>001</id>
+   <name>Kokdara</name>
+   <email>kok@gmail.com</email>
+   <salary>1400</salary>
+ </employee>
+
+ <employee>
+   <id>002</id>
+   <name>KhouchKhouch</name>
+   <email>khouch@gmail.com</email>
+   <salary>1500</salary>
+ </employee>
+
+</employees>
+
